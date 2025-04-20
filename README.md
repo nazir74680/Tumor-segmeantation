@@ -26,8 +26,8 @@ This project implements a deep learning-based solution for tumor segmentation in
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd tumor-segmentation
+git clone https://github.com/nazir74680/Tumor-segmeantation.git
+cd Tumor-segmeantation
 ```
 
 2. Install the required dependencies:
