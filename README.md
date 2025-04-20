@@ -70,12 +70,12 @@ The server will start on `http://localhost:5000`
 
 1. Navigate to the frontend directory:
 ```bash
-cd frontend
+cd v1
 ```
 
 2. Install frontend dependencies:
 ```bash
-npm install
+npm run dev
 ```
 
 3. Start the development server:
